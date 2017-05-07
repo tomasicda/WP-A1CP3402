@@ -75,7 +75,7 @@
 
 		<div id="copyinfo">
 			<a href="<?php echo esc_url( esc_attr__( 'http://wordpress.org/', 'teamone' ) ); ?>">
-				<?php printf( esc_attr__( 'Made with L&#9829;ve.', 'teamone' ), 'WordPress' ); ?>
+				<?php printf( esc_attr__( '', 'teamone' ), 'WordPress' ); ?>
 			</a>
 			<?php printf( esc_attr__( '  %1$s by %2$s.', 'teamone' ), 'teamone', '<a href="http://cp3402.freddymutnosh.com/" rel="designer">Ashley Ryland, Daniel Tomasic, Mick White</a>' ); ?></div>
 	</div>
